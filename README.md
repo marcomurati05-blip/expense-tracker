@@ -31,8 +31,7 @@ I wanted a quick way to see where my money goes each month without a spreadsheet
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/marcomurati05-blip/expense-tracker.gitcd expense-tracker
 
 python cli.py add 12.50 food "Lunch with team"
 python cli.py add 2.80 transport "Bus" --date 2026-10-01
